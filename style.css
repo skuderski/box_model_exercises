@@ -1,13 +1,43 @@
+* {
+padding: 0px;
+margin: 0px;
+font-size:30px;
+box-sizing: border-box;
+}
+
 .box-one {
-    color:blue;
+    background-color:rgb(140, 140, 231);
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    border: 30px solid #9B51E0;
+    margin: 60px;
+    
 }
 .box-two {
-    color:orange;
+    background-color:orange;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    border: 30px solid #2D9CDB;
+    margin: 60px;
 }
-.box-three:{
-    color:green;
+
+.box-three{
+    background-color:rgb(20, 192, 20);
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    border: 30px solid rgb(171, 197, 236);
+    margin: 60px;
+
 }
 
 .box-four {
-    color:brown
+    background-color:brown;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    border: 30px solid rgb(214, 208, 192);
+    margin: 60px;
 }
